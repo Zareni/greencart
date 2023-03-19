@@ -1,0 +1,9 @@
+{
+    "videosFolder": "cypress/videos",
+    "screenshotsFolder": "cypress/screenshots",
+    "video": true,
+    "screenshots": true,
+    "videoUploadOnPasses": false,
+    "chromeWebSecurity": false,
+    "experimentalSessionAndOrigin": true
+  }
